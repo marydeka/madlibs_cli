@@ -1,0 +1,33 @@
+{
+    "template": "I want to eat a {{fruit}} when I am in {{place}}.",
+    "originalStory": {
+        "fruit": "mango",
+        "place": "Paris"
+    },
+    "prompts": {
+        "fruit": "a type of fruit",
+        "place": "your favourite place"
+    },
+    "stories": {
+        "grapefruit": {
+            "fruit": "grapefruit",
+            "place": "Meadowbrook Park"
+        },
+        "honolulu": {
+            "fruit": "lemon",
+            "place": "honolulu"
+        },
+        "windy": {
+            "fruit": "jackfruit",
+            "place": "a windy mountaintop"
+        },
+        "gazebo": {
+            "fruit": "lemon",
+            "place": "gazebo in paris"
+        },
+        "thailand": {
+            "fruit": "dragonfruit",
+            "place": "thailand"
+        }
+    }
+}

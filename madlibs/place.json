@@ -1,0 +1,25 @@
+{
+    "template": "My name is {{name}} and I live in {{place}} and I eat {{food}}.",
+    "originalStory": {
+        "place": "yellowstone national park",
+        "name": "genghis",
+        "food": "yogurt"
+    },
+    "prompts": {
+        "place": "a national park",
+        "name": "a name",
+        "food": "a type of fruit"
+    },
+    "stories": {
+        "pirate": {
+            "place": "sequoia",
+            "name": "captain jack sparrow",
+            "food": "kiwi"
+        },
+        "Sally's Day Out": {
+            "place": "Yosemite National Park",
+            "name": "Sally",
+            "food": "dragonfruit"
+        }
+    }
+}

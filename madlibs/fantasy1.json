@@ -1,0 +1,26 @@
+{
+    "template": "Emily has a pet {{fantasy_creature}}. She and {{Name1}} like to roll in the mud and play {{card_game}}. One day, they want to travel to {{country_name}} together. Until then, they spend most of their time playing and eating lots of {{food}}.",
+    "originalStory": {
+        "Name1": "Bert",
+        "card_game": "poker",
+        "country_name": "Ecuador",
+        "food": "watermelon",
+        "fantasy_creature": "unicorn"
+    },
+    "prompts": {
+        "Name1": "a friend's name",
+        "card_game": "your favorite card game",
+        "country_name": "a country you want to visit",
+        "food": "your favorite food",
+        "fantasy_creature": "a fantasy creature"
+    },
+    "stories": {
+        "fantasy2": {
+            "Name1": "Dijana",
+            "card_game": "crazy eights",
+            "country_name": "Italy",
+            "food": "blueberries",
+            "fantasy_creature": "mermaid"
+        }
+    }
+}

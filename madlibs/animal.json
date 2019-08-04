@@ -1,0 +1,21 @@
+{
+    "template": "I want to play with a {{animal}} when I am in {{place}}.",
+    "originalStory": {
+        "animal": "kangaroo",
+        "place": "Australia"
+    },
+    "prompts": {
+        "animal": "a type of animal",
+        "place": "your favourite place"
+    },
+    "stories": {
+        "denver": {
+            "animal": "parrot",
+            "place": "denver"
+        },
+        "Alaska_Dream": {
+            "animal": "zebra",
+            "place": "Alaska"
+        }
+    }
+}
